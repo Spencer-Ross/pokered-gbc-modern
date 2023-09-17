@@ -1,16 +1,8 @@
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Red and Blue.
+This is a fork of [pokered full color][pokered-gbc] project.
 
-It builds the following ROMs:
-
-- Pokemon Red (UE) [S][!].gb `sha1: ea9bcae617fdf159b045185467ae58b2e4a48b9a`
-- Pokemon Blue (UE) [S][!].gb `sha1: d7037c83e1ae5b39bde3c30787637ba1d4c48ce2`
-- BLUEMONS.GB (debug build) `sha1: 5b1456177671b79b263c614ea0e7cc9ac542e9c4`
-- dmgapae0.e69.patch `sha1: 0fb5f743696adfe1dbb2e062111f08f9bc5a293a`
-- dmgapee0.e68.patch `sha1: ed4be94dc29c64271942c87f2157bca9ca1019c7`
-
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+I'm playing around with adding new features to the color version of the gen 1 games. So far I have new types Dark, Steel, Fairy, but I haven't implemented anything else. 
 
 
 ## See also
@@ -31,6 +23,7 @@ Other disassembly projects:
 - [**Pokémon FireRed**][pokefirered]
 - [**Pokémon Emerald**][pokeemerald]
 
+[pokered-gbc]: https://github.com/dannye/pokered-gbc
 [pokeyellow]: https://github.com/pret/pokeyellow
 [pokegold]: https://github.com/pret/pokegold
 [pokecrystal]: https://github.com/pret/pokecrystal
